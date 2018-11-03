@@ -3,6 +3,7 @@ public class Main{
 public void main(String[] arr)
 {
   System.out.println("Hello World!");
+  System.out.println("Something has changed.")
 }
 
 }
